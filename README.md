@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Меня зовут Иван<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет! Меня зовут Иван<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer</h3>
 
 
@@ -29,5 +29,5 @@
 
 📫 Мои контакты:  
 ![Static Badge](https://img.shields.io/badge/%40ciiska-blue?logo=telegram)  
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=linkedin.com%2Fin%2Fivan-nilov-a38851299)
+<object>![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=linkedin.com%2Fin%2Fivan-nilov-a38851299)</object>
 ![Static Badge](https://img.shields.io/badge/email-nilkom1995%40yandex.ru-blue?logo=maildotru)
