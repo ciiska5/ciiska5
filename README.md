@@ -30,4 +30,4 @@
 📫 Мои контакты:  
 ![[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ciiska5)  
 ![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ivan-nilov-a38851299)  
-![Static Badge](https://img.shields.io/badge/email-email) - nilkom1995@yandex.ru
+![Static Badge](https://img.shields.io/badge/email-nilkom1995%40yandex.ru-blue?logo=maildotru)
