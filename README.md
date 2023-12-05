@@ -27,6 +27,6 @@
 
 ##
 
-📫 Мои контакты: [![Static Badge](https://img.shields.io/badge/%40ciiska-blue?logo=telegram)](https://t.me/ciiska5)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=linkedin.com%2Fin%2Fivan-nilov-a38851299)](http://linkedin.com/in/ivan-nilov-a38851299)
-![Static Badge](https://img.shields.io/badge/email-nilkom1995%40yandex.ru-blue?logo=maildotru)
+📫 Мои контакты: [![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram)](https://t.me/ciiska5)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin)](http://linkedin.com/in/ivan-nilov-a38851299)
+![Static Badge](https://img.shields.io/badge/email-nilkom1995%40yandex.ru-%23CC071E?logo=maildotru&labelColor=%23FFD900)
